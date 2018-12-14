@@ -2,4 +2,10 @@
 
 A Makefile that you can use to easily export an SVG to PDF and / or PNG.
 
-Requires [Inkscape](https://inkscape.org/)
+Requires [Inkscape](https://inkscape.org/) and [make](https://en.wikipedia.org/wiki/Make_(software))
+
+## Usage
+
+```
+make (all|pdf|png|clean|clean-pdf|clean-png)
+```
