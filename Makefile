@@ -19,7 +19,7 @@ FN := ${basename ${SVG}}
 PDF_DIR := pdf
 PNG_DIR := png
 PDF := ${PDF_DIR}/${FN}.pdf
-PNG :=${PNG_DIR}/${FN}.png
+PNG := ${PNG_DIR}/${FN}.png
 
 # All paths need to be absolute when using Inkscape from the command line. 
 # This will quote spaces in the path...
