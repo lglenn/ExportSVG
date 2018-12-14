@@ -1,3 +1,5 @@
 * SVGExport
 
 A Makefile that you can use to easily export an SVG to PDF and / or PNG.
+
+Requires [Inkscape](https://inkscape.org/)
